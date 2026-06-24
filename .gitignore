@@ -1,0 +1,27 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# Editor and local state
+.vscode/
+.idea/
+
+# Generated wallet outputs
+wallet.txt
+pvt.csv
+pvt2.csv
+evm_wallets.csv
+wallets.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

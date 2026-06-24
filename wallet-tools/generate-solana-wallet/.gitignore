@@ -1,0 +1,12 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+
+# Generated files
+wallet.txt
+pvt.csv
+pvt2.csv
