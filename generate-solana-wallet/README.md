@@ -35,7 +35,7 @@ pip install solana
 
 ## Run Commands - 
 ```
-cd wallet-tools/generate-solana-wallet
+cd generate-solana-wallet
 ```
 ```
 python3 solana.py

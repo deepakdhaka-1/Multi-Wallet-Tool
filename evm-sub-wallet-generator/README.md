@@ -22,7 +22,7 @@ A powerful command-line tool to generate multiple EVM sub-wallets derived from a
 ## 🛠 Installation
 
 ```bash
-cd wallet-tools/evm-sub-wallet-generator
+cd evm-sub-wallet-generator
 pip install -r requirements.txt
 ```
 ## Main command

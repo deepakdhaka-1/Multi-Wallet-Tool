@@ -11,13 +11,13 @@ This folder contains the current EVM wallet generator implementation.
 ## Install
 
 ```bash
-pip install -r wallet-tools/evm-wallet-generator/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
 
 ```bash
-python wallet-tools/evm-wallet-generator/bot.py
+python bot.py
 ```
 
 ## Output

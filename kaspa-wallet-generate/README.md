@@ -19,7 +19,7 @@ A simple yet powerful command-line tool to generate one or many Kaspa-compatible
 ## 📦 Installation
 
 ```bash
-cd wallet-tools/kaspa-wallet-generate
+cd kaspa-wallet-generate
 pip install -r requirements.txt
 ````
 ---
